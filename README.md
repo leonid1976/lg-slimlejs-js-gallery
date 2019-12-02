@@ -33,8 +33,7 @@ Please submit an issue, or should you have the solution; make a pull request ple
 <h4>Usage</h4><br><br>
 
 
-<script type="text/javascript" src="lg-simple-js-gallery.js "></script>
-<link rel="stylesheet" href="lg-simple-js-gallery.css"><br>
+<link rel="stylesheet href ="lg-simple-js-gallery.css">
 <script type="text/javascript" src="lg-simple-js-gallery.js "></script>
 
 <br><br>
