@@ -30,9 +30,8 @@ Please submit an issue, or should you have the solution; make a pull request ple
                       
       </div> <!--gallerys__wrap end-->
       
-<h4>Usage</h4><br><br><link rel="stylesheet href="lg-simple-js-gallery.css">      
-<br><link rel="stylesheet href="lg-simple-js-gallery.css"><br>
 
+<<link rel="stylesheet href="lg-simple-js-gallery.css"><br>
 <script type="text/javascript" src="lg-simple-js-gallery.js "></script>
 
 
